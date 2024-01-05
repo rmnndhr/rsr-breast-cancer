@@ -16,12 +16,11 @@ When comparing Relative Survival Ratios of females from NAACCR U.S. data categor
 
 ### Files used
 - Female_CiNA_2015_2019_survival.pdf
-- x.x
-- x.x
->**Note**: Notes.
+- __.__
+>**Note**: We are only analyzing NAACCR U.S. COMBINED data. NAACCR CANADIAN COMBINED and NAACCR NORTH AMERICA COMBINED data are not part of the analysis.
 
 ### Program versions used
-- pgAdmin 4 Version 6.21
+- 
 
 ### Reference
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2894028/#R20
