@@ -12,7 +12,7 @@ Analysis of Age Group RSR Trend for Breast Cancer vs. Other Cancers in Female
 When comparing Relative Survival Ratios of females from NAACCR U.S. data categorized by age groups, is there a common trend in RSR for Breast Cancer vs. other Cancers (Melanoma of the Skin, Cervix Uteri, and Corpus & Uterus, NOS)?
 
 ### Link to Data
-[Cancer Survival for the United States and Canada: 2012–2018]((https://www.naaccr.org/wp-content/uploads/2022/06/CiNA.2015-2019.v4.survival.pdf))
+[Cancer Survival for the United States and Canada: 2012–2018](https://www.naaccr.org/wp-content/uploads/2022/06/CiNA.2015-2019.v4.survival.pdf)
 
 ### Files used
 - Female_CiNA_2015_2019_survival.pdf
